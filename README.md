@@ -1,2 +1,2 @@
-# publication-page-generator
+# Publication page generator
 This project is on purpose to generate publication pages.
